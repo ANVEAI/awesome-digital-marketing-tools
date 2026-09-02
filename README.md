@@ -5,6 +5,8 @@
 
 [VoiceForms](https://voiceforms.anvevoice.app) AI voice forms for marketers. Collect feedback, surveys, and reviews with voice.
 
+[BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) Agent skills and API/MCP execution for adapting, scheduling, and publishing approved social-media content.
+
 ## Contributing
 
 Pull requests welcome! Please follow the [contributing guidelines](../../../../ANVEAI/awesome-digital-marketing-tools/blob/main/CONTRIBUTING.md).
