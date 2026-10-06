@@ -3,6 +3,8 @@
 
 ## Tools
 
+[FollowerKaufen.ch Engagement Rate Calculator (German)](https://followerkaufen.ch/tools/engagement-rate) Free browser calculator for likes plus comments as a percentage of followers, reach, or views, with no account or profile lookup.
+
 [VoiceForms](https://voiceforms.anvevoice.app) AI voice forms for marketers. Collect feedback, surveys, and reviews with voice.
 
 ## Contributing
